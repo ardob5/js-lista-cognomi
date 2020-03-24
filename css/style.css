@@ -1,0 +1,11 @@
+.list {
+  height: 100vh;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list ul {
+  list-style: none;
+}
